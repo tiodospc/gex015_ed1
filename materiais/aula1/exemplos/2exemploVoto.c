@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 int main() {
-      int idade; printf("Qual a sua idade? ");
+      int idade; 
+	  printf("Qual a sua idade? ");
       scanf("%d", &idade);
       if(idade >= 18 && idade <=70)
             printf("Voce deve votar!");
