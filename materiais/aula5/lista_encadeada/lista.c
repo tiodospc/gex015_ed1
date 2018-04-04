@@ -45,12 +45,14 @@ Lista* lista_busca( Lista* l, float info )
 void lista_imprime( Lista* l ) 
 {
 	//TODO Implementar
+	printf("Erro!! Não implementado!\n");
 }
 
 /* percorre os elementos recursivamente, imprimindo-os */
 void lista_imprime_rec( Lista* l ) 
 {
 	//TODO Implementar 
+	printf("Erro!! Não implementado!\n");
 }
 
 /* remove da lista o elemento que contem 'info'. Se lista ficar vazia, retorna NULL.
@@ -59,7 +61,8 @@ void lista_imprime_rec( Lista* l )
 */
 Lista* lista_remove( Lista* l, float info )
 {
-	//Implementar 
+	//TODO Implementar 
+	return l;
 }
 
 /* libera a memória de cada nó da lista. */

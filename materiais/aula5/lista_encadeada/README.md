@@ -7,9 +7,14 @@ Acesse o diretório onde os programas estão armazenados, e digite o comando:
 Exemplo: programa.c  
 **gcc programa.c -o programa**
 
+Compilação da lista:  
+**gcc lista.c principal.c -o lista**
+
 #### Como faço para executar os programas?
 Acesse o diretório onde o programa foi compilado, e digite o comando:  
 *./[nomearquivo]*  
 
 Exemplo: programa  
 **./programa**
+
+
